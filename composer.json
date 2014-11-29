@@ -1,0 +1,27 @@
+{
+    "name"       : "smaloron/basic-mvc",
+    "description": "A basic MVC Framework",
+    "license"    : "GPL",
+    "authors"    : [
+        {
+            "name" : "Sebastien Maloron",
+            "email": "contact@smaloron.eu"
+        }
+    ],
+    "require"    : {
+        "katzgrau/klogger": "1.0.*"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Framework\\"         : "src/Framework",
+            "Models\\"            : "src/Models",
+            "Controllers\\"       : "src/Controllers",
+            "Framework\\Helpers\\": "src/Framework/Helpers"
+        }
+    },
+
+    "config": {
+        "vendor-dir": "src/vendors"
+    }
+}

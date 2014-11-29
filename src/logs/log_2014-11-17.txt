@@ -1,0 +1,230 @@
+[2014-11-17 14:11:55.556799] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:11:55.563570] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:11:55.563621] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:11:55.564327] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:11:56.257019] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:11:56.258001] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:11:56.258069] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:11:56.258383] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:11:56.259866] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:12:10.595366] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:10.596930] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:10.597022] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:10.597408] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:10.737531] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:10.738943] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:10.739018] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:10.739428] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:10.740580] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:12:17.380218] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:17.381052] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:17.381092] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:17.381319] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:17.428049] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:17.428679] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:17.428720] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:17.428916] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:17.429583] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:12:21.862991] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:21.863960] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:21.864026] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:21.864259] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:21.905693] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:21.906271] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:21.906311] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:21.906492] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:21.906778] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:12:24.010857] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:24.011526] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:24.011568] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:24.011765] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:24.054529] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:24.055118] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:24.055159] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:24.055342] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:24.055658] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:12:25.602394] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:25.603101] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:25.603141] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:25.603336] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:25.603636] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:12:27.437024] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:27.437834] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:27.437886] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:27.438123] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:27.481376] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:27.481965] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:27.482003] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:27.482187] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:27.482467] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:12:29.036272] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:29.036974] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:29.037022] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:29.037237] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:29.073647] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:12:29.074232] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:12:29.074271] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:12:29.074480] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:12:29.074807] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:18:59.520687] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:18:59.522245] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:18:59.522387] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:18:59.522874] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:18:59.661468] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:18:59.662098] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:18:59.662141] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:18:59.662331] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:18:59.663003] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:19:15.375329] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:15.375962] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:15.376004] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:15.376239] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:15.437726] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:15.438350] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:15.438393] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:15.438582] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:15.439229] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:19:31.155813] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:31.156709] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:31.156763] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:31.156997] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:31.195072] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:31.195668] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:31.195710] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:31.195897] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:31.196541] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:19:34.945907] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:34.946525] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:34.946567] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:34.946762] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:34.982498] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:34.983123] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:34.983165] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:34.983346] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:34.983628] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:19:36.365502] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:36.366431] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:36.366497] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:36.366772] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:36.410129] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:19:36.410749] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:19:36.410792] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:19:36.410981] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:19:36.411281] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:23:54.909187] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:23:54.910099] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:23:54.910145] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:23:54.910413] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:23:55.030879] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:23:55.031491] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:23:55.031534] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:23:55.031728] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:23:55.032416] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:24:51.523539] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:51.524442] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:51.524492] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:51.524749] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:51.584882] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:51.585510] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:51.585552] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:51.585740] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:51.586437] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:24:53.159910] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:53.160607] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:53.160653] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:53.160866] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:53.202519] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:53.203136] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:53.203177] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:53.203360] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:53.203651] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:24:54.938824] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:54.939522] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:54.939569] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:54.939788] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:54.982594] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:54.983196] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:54.983253] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:54.983448] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:54.983736] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:24:57.355360] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:57.356506] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:57.356643] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:57.357075] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:57.395194] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:57.395883] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:57.395925] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:57.396112] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:57.396409] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:24:58.436877] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:58.437856] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:58.437937] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:58.438306] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:58.476243] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:24:58.476880] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:24:58.476933] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:24:58.477128] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:24:58.477447] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:31:14.666507] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:14.667243] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:14.667290] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:14.667512] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:14.723826] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:14.724486] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:14.724539] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:14.724777] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:14.725163] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:31:16.524524] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:16.525226] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:16.525266] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:16.525496] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:16.571938] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:16.572607] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:16.572648] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:16.572860] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:16.573173] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:31:41.912365] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:41.913152] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:41.913203] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:41.913441] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:41.977691] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:41.978307] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:41.978348] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:41.978558] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:41.978861] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:31:43.377341] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:43.377995] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:43.378038] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:43.378233] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:43.420386] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:43.420994] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:43.421037] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:43.421230] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:43.421555] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:31:44.897919] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:44.898602] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:44.898667] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:44.898895] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:44.939171] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:44.939778] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:44.939821] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:44.940009] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:44.940298] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:31:46.334566] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:46.335293] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:46.335340] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:46.335555] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:46.379786] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:31:46.380368] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:31:46.380409] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:31:46.380589] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:31:46.380870] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist
+[2014-11-17 14:42:48.644396] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:42:48.723604] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:42:48.723707] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:42:48.746625] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:42:51.641859] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/web/index.php - Lancement de l'application
+[2014-11-17 14:42:51.642877] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-17 14:42:51.642956] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-17 14:42:51.643383] [DEBUG] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php - Lancement du controlleur
+[2014-11-17 14:42:51.688029] [ERROR] /Users/seb/Documents/m2i/php/php-esv/src/Framework/WebApplication.php Method Controllers\DefaultController::favicon.icoAction() does not exist

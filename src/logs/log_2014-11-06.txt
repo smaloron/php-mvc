@@ -1,0 +1,8 @@
+[2014-11-06 22:51:31.934708] [DEBUG] /Users/seb/Documents/m2i/php/php-revision/src/web/index.php - Lancement de l'application
+[2014-11-06 22:51:32.858903] [DEBUG] /Users/seb/Documents/m2i/php/php-revision/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-06 22:51:34.219233] [DEBUG] /Users/seb/Documents/m2i/php/php-revision/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-06 22:51:35.432485] [ERROR] /Users/seb/Documents/m2i/php/php-revision/src/Framework/WebApplication.php test
+[2014-11-06 22:51:42.278373] [DEBUG] /Users/seb/Documents/m2i/php/php-revision/src/web/index.php - Lancement de l'application
+[2014-11-06 22:51:45.074724] [DEBUG] /Users/seb/Documents/m2i/php/php-revision/src/Framework/WebApplication.php - Chargement de la configuration de l'application
+[2014-11-06 22:51:45.763720] [DEBUG] /Users/seb/Documents/m2i/php/php-revision/src/Framework/WebApplication.php - Lancement du routeur
+[2014-11-06 22:51:46.442689] [ERROR] /Users/seb/Documents/m2i/php/php-revision/src/Framework/WebApplication.php test
